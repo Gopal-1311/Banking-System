@@ -1,6 +1,6 @@
 # Banking System by Gopal Gupta
 
-<img width="644" alt="Screen Shot of Banking System" src="[https://github.com/Gopal-1311/Banking-System/blob/a0db5a5e14c57caaaa172d1f6c612b11f9c3ba48/Screenshot%202025-04-02%20161718.png]">
+<img width="644" alt="Screen Shot of Banking System" src="Screenshot 2025-04-02 161718.png">
 
 
 Project by Gopal Guptafor the Data Analysis and Algorithm in Chandigarh University, under the guidance of Assistant Prof. Deepali Saini.

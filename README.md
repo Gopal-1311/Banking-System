@@ -3,7 +3,7 @@
 <img width="644" alt="Screen Shot of Banking System" src="Screenshot 2025-04-02 161718.png">
 
 
-Project by Gopal Guptafor the Data Analysis and Algorithm in Chandigarh University, under the guidance of Assistant Prof. Deepali Saini.
+Project by Gopal Gupta for the Data Analysis and Algorithm in Chandigarh University, under the guidance of Assistant Prof. Deepali Saini.
 
 This system is for a bank owner to mange the accounts within their information by allowing them to create accounts, edit their information, perform transactions, delete them if necessary and search through them, sorted by any fields they desire.
 
